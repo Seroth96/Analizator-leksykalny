@@ -1,0 +1,12 @@
+EquivalentClasses(
+   :ChildlessPerson 
+   ObjectIntersectionOf(
+     :Person 
+     ObjectComplementOf( :Parent )
+   ) 
+) 
+ 
+EquivalentClasses(
+   :MyBirthdayGuests
+   ObjectOneOf( :Bill :John :Mary) 
+) 

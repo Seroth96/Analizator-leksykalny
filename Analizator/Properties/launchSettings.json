@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Analizator": {
+      "commandName": "Project",
+      "commandLineArgs": "OwlExamples\\bad.owl"
+    }
+  }
+}
